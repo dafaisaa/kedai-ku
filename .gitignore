@@ -1,0 +1,17 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Rahasia: jangan pernah di-commit
+*.jks
+*.keystore
+key.properties
+.env
+lib/config/secrets.dart
